@@ -28,7 +28,7 @@ def main(args):
     for password in args:
         count = pwned_api_check(password)
         if count:
-            print(f'{password} ნაპოვნია {count}  გირჩევ შეცვალო პაროლი!')
+            print(f'{password} ნაპოვნია {count} -ჯერ  გირჩევ შეცვალო პაროლი!')
         else:
             print(f'{password} პაროლი არ არის ნაპოვნი, შეინარჩუნე ეგ პაროლი :)')
     return 'პროგრამამ შეასრულა მოვალეობა!'
