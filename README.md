@@ -1,6 +1,6 @@
 # checkyourpasswordifhacked
-this will check if your password is good for use or not!
-how to use:
+this will check if your password have ever been hacked or not.
+here instruction how to use:
 in terminal type python3 main.py (here password to check!)
 
 
