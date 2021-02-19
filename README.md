@@ -1,4 +1,4 @@
-# checkyourpasswordifhacked
+# check your password if it ever get hacked
 this will check if your password have ever been hacked or not.
 here instruction how to use:
 in terminal type python3 main.py (here password to check!)
